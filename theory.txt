@@ -1,32 +1,30 @@
-Full stack technology = frontend  + backend 
-Front-end : we use it to interact with browser
-
-html , css , javascript , react , bootstrap/material ui
-
-
-back-end : we use it to interact with server
-.net : C# 
-python , django/flask 
-java , spring boot 
-javascript , node js , express/nest js
-
-client-server architecture : 
+front-end language : b'caz these language gets executed on browser
+html
+css 
+java Script
+bootstrap
+react / angular(library/framework)
 
 
-computer language : (web development) 
-1. markup language :(used for stucture and desinging -- html ,css)
-2. query language : (sql, no-sql)
-3. programming language : c# , c , c++ , java , python , java script, php etc.
-
-Day - 2
-
-basic tags : 
-
-heading : h1, h2, h3 ,h4 , h5 , h6
-
-paragraph
-
-image
 
 
-anchor
+back-end language : 
+C#  , .net framework, (system based application)
+Java , SpringBoot (Security -> banking application)
+Python, Django/Flask (ai, data analytics )
+Java Script , Node-js,  express-js => Real-time application (I/O) chat application, video streaming
+
+
+
+
+html => hypertext markup language 
+
+1. hypertext is a text through which we can link multiple web pages.
+
+2. the text that can be styled through color , font-size, font-style. 
+
+3. language is a means of communication. 
+
+
+what is html ? 
+html is a language throgh which we can write the content on the web page.

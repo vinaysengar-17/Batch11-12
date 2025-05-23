@@ -1,0 +1,32 @@
+Full stack technology = frontend  + backend 
+Front-end : we use it to interact with browser
+
+html , css , javascript , react , bootstrap/material ui
+
+
+back-end : we use it to interact with server
+.net : C# 
+python , django/flask 
+java , spring boot 
+javascript , node js , express/nest js
+
+client-server architecture : 
+
+
+computer language : (web development) 
+1. markup language :(used for stucture and desinging -- html ,css)
+2. query language : (sql, no-sql)
+3. programming language : c# , c , c++ , java , python , java script, php etc.
+
+Day - 2
+
+basic tags : 
+
+heading : h1, h2, h3 ,h4 , h5 , h6
+
+paragraph
+
+image
+
+
+anchor
